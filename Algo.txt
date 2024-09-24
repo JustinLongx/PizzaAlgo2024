@@ -1,3 +1,4 @@
 Step 1: Choose the pizza place.
 Step 2: Choose the pizza you want to order.
 Step 3: Order the pizza.
+If they send the wrong order, we call to ask for a refund or exchange for original order.
